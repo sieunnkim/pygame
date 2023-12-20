@@ -19,7 +19,7 @@ Picture of your screen when you start the game
 </br>
 
 
-<img width="30%" src="https://github.com/sieunnkim/pygame/assets/150882029/88884801-3216-4230-9766-dfb7111eea7b">
+<img width="30%" src="https://github.com/sieunnkim/pygame/assets/150882029/7d7b60e1-cc08-4944-a4ae-9fd544cd4cab">
 Picture as your level goes up
 </br>
 </br>
