@@ -20,6 +20,7 @@ Picture of your screen when you are playing the game
 </br>
 
 <img width="30%" src="https://github.com/sieunnkim/pygame/assets/150882029/c2100634-221e-4e62-9f8e-0157cbe685eb">
+
 Picture when the game is over
 </br>
 </br>
